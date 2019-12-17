@@ -1,5 +1,4 @@
 # PROJECT-6
-Free for All
 <body>
 
   <h1>About Naruto Uzumaki: The Child of Prophecy</h1>
