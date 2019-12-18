@@ -1,9 +1,9 @@
 # PROJECT-6
 <body>
 Free for Fall
- # About Naruto Uzumaki: The Child of Prophecy 
+ #About Naruto Uzumaki: The Child of Prophecy 
 
-  In this project, I've decided to do my favorite anime character, which is **Naruto Uzumaki**.  [Naruto (1999)](https://naruto.fandom.com/wiki/Naruto_%28series%29)
+  In this project, I've decided to do my favorite anime character, which is **Naruto Uzumaki**. [Naruto (1999)](https://naruto.fandom.com/wiki/Naruto_%28series%29)
  is one of the first anime I've come across. It is also the reason why I started to work out to become a different person. When I was 12 years old, I started watching Naruto because it gave me excitement and motivated me to get good grades and workout during my free time. 
 
 
